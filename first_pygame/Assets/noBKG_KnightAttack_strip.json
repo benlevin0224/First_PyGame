@@ -1,0 +1,189 @@
+{"frames": [
+
+{
+	"filename": "noBKG_KnightAttack_strip-0.png",
+	"frame": {"x":0,"y":0,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-1.png",
+	"frame": {"x":0,"y":45,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-2.png",
+	"frame": {"x":0,"y":90,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-3.png",
+	"frame": {"x":0,"y":135,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-4.png",
+	"frame": {"x":0,"y":180,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-5.png",
+	"frame": {"x":0,"y":225,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-6.png",
+	"frame": {"x":0,"y":270,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-7.png",
+	"frame": {"x":0,"y":315,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-8.png",
+	"frame": {"x":0,"y":360,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-9.png",
+	"frame": {"x":0,"y":405,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-10.png",
+	"frame": {"x":0,"y":450,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-11.png",
+	"frame": {"x":0,"y":495,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-12.png",
+	"frame": {"x":0,"y":540,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-13.png",
+	"frame": {"x":0,"y":585,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-14.png",
+	"frame": {"x":0,"y":630,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-15.png",
+	"frame": {"x":0,"y":675,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-16.png",
+	"frame": {"x":0,"y":720,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-17.png",
+	"frame": {"x":0,"y":765,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-18.png",
+	"frame": {"x":0,"y":810,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-19.png",
+	"frame": {"x":0,"y":855,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-20.png",
+	"frame": {"x":0,"y":900,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+},
+{
+	"filename": "noBKG_KnightAttack_strip-21.png",
+	"frame": {"x":0,"y":945,"w":144,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":45},
+	"sourceSize": {"w":144,"h":45}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "noBKG_KnightAttack_strip.png",
+	"format": "RGBA8888",
+	"size": {"w":144,"h":990},
+	"scale": "1",
+	"normal_map": "noBKG_KnightAttack_strip_n.png",
+	"smartupdate": "$TexturePacker:SmartUpdate:03517ec230e015f0a819d7b226f9d06b:58e2c4bf43c0c65f53d87fcf46600bb9:4d5e1d5f3e3a91a15513bec2b002d177$"
+}
+}
