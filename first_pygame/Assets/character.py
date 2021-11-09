@@ -1,6 +1,6 @@
 import pygame
 import json
-import os
+
 
 global index
 global facing_left
